@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhavalbera9898
-- 👀 I’m interested in Larael, Magento2
+- 👀 I’m interested in Laravel, Magento2
 - 🌱 I’m currently learning Magento2
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Send email on dhavalbera9898@gmail.com
